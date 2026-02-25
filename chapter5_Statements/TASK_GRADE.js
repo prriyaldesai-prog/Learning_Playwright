@@ -1,4 +1,4 @@
-let marks = 90.1;
+let marks = 89.9;
 if (marks >= 90 && marks <= 100) {
     console.log("Grade A");
 }
