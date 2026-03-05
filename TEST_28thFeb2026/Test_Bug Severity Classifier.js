@@ -15,6 +15,8 @@ let frequency = "always", impact = "minor";
 
 if (frequency === "always" && impact === "blocker") {
     console.log("P0");
+
+
 }
 else if (frequency === "always" && impact === "major") {
     console.log("P1");

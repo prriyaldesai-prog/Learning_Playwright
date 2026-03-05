@@ -1,6 +1,8 @@
 // API Response Status Code Validator
 
-// As an SDET, you receive an API response status code and need to classify it. Write a JavaScript program using a switch statement that takes an HTTP status code stored in a variable and prints the category and a QA-friendly message.
+// As an SDET, you receive an API response status code and need to classify it. 
+// Write a JavaScript program using a switch statement that takes an HTTP status code 
+// stored in a variable and prints the category and a QA-friendly message.
 
 // - 200 → "PASS - OK: Request successful"
 // - 201 → "PASS - Created: Resource created successfully"
