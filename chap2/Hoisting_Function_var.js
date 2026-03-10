@@ -11,3 +11,12 @@ getuserstatus();
 
 
 // var gives undefined
+
+
+//practice var in function
+function getuserstatus() {
+    console.log(status);
+    var status = 200;
+    console.log(status);
+}
+getuserstatus();

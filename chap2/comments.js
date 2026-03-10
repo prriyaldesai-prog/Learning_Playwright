@@ -7,3 +7,9 @@ falsef
 **/
 
 console.log("Hello");
+//
+/*
+multiline test comment test comment
+*/
+
+// ctrl ? ---comment single line shortcut

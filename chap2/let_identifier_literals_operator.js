@@ -11,16 +11,3 @@ function test() {
 }
 test();
 
-let a = 10;
-console.log(a);
-
-function test() {
-    let a = 20;
-    if (true) {
-        console.log(a);
-    }
-    let a = 30;
-    console.log(a)
-}
-
-test();

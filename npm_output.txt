@@ -1,0 +1,1 @@
+npm error A complete log of this run can be found in: C:\Users\123\AppData\Local\npm-cache\_logs\2026-03-03T04_19_11_942Z-debug-0.log

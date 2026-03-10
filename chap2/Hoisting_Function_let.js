@@ -11,3 +11,14 @@ getuserstatus();
 
 
 // Let gives referenceError
+
+
+//let function hoisting
+
+function getuserstatus() {
+    console.log(status);
+    let status = 200;
+    // console.log(status);
+}
+
+getuserstatus();

@@ -1,0 +1,10 @@
+﻿node.exe : npm error A complete log of this run can be found in: 
+C:\Users\123\AppData\Local\npm-cache\_logs\2026-03-03T04_25_57_295Z-debug-0.log
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" "C:\Program Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (npm error A com...95Z-debug-0.log:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+EXIT_CODE:
+0

@@ -1,0 +1,26 @@
+﻿cmd : npm error A 
+complete log of this 
+run can be found in: C:
+\Users\123\AppData\Loca
+l\npm-cache\_logs\2026-
+03-03T04_20_44_498Z-deb
+ug-0.log
+At line:1 char:1
++ cmd /c "cd /d C:\User
+s\123\OneDrive\Priyal\P
+laywright_antigravity 
+&&  ...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (npm error A c   
+ om...98Z-debug-0.l    
+og:String) [], Rem    
+oteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
