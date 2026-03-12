@@ -19,3 +19,15 @@ console.log(responses.find(r => r > 201 && r <= 503));
 
 let uniqueErrorCodes = [...new Set(responses)];
 console.log(uniqueErrorCodes);
+
+
+//find
+//find the first error code from the array list.
+let responses1 = [200, 201, 404, 500, 404, 200, 503];
+
+let res = responses1.find(f => f > 201); //returns the first matching value
+console.log(res);
+
+console.log(responses1.findIndex(f => f > 201));
+console.log(responses1.findLast(f=>f>201));
+console.log(responses1.findLastIndex(f=>f>401));
